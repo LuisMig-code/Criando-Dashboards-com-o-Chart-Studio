@@ -1,6 +1,6 @@
 # Criando Dashboards com o Chart Studio
 
-<img src="https://cdn.pixabay.com/photo/2016/08/20/06/44/e-commerce-1606962_960_720.png">
+<img src="https://cdn.pixabay.com/photo/2016/08/20/06/44/e-commerce-1606962_960_720.png" width=500>
 
 Usando a plataforma CharStudio e a biblioteca Plotly criei uma dashboard de vendas do e-commerce da olist.
 
